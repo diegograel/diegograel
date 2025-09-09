@@ -24,7 +24,8 @@
 **Frameworks & Libraries:**  
 ![Appium](https://img.shields.io/badge/Appium-%23323330.svg?style=flat-square&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=flat-square&logo=java&logoColor=white)
-
+![Playwright](https://img.shields.io/badge/Playwright-%23FF6F00.svg?style=flat-square&logo=java&logoColor=white)
+ 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
