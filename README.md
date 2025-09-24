@@ -20,6 +20,7 @@
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat-square&logo=typescript)
 
 **Frameworks & Libraries:**  
 ![Appium](https://img.shields.io/badge/Appium-%23323330.svg?style=flat-square&logo=appium&logoColor=white)
