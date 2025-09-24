@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat-square&logo=typescript)
 
@@ -38,6 +38,8 @@
 ### 📱 [Android Sample](https://github.com/diegograel/Android-Sample)
 A project focused on automated testing of an Android app using Appium and best practices for mobile test automation.
 
+### [Playwright](https://github.com/diegograel/portfolio-playwright-sample)
+A project with the purpose on learning and also display these learnings on my portfolio.
 ---
 
 ## 📊 GitHub Stats
