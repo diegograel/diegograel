@@ -18,8 +18,9 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=java)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=java)
 
 **Frameworks & Libraries:**  
 ![Appium](https://img.shields.io/badge/Appium-%23323330.svg?style=flat-square&logo=appium&logoColor=white)
