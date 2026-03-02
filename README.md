@@ -44,6 +44,7 @@ A project with the purpose on learning and also display these learnings on my po
 
 ### [Python](https://github.com/diegograel/python-pytest-ui-automation)
 A project targeting the market's most in-demand language.
+
 ---
 
 ## 📊 GitHub Stats
