@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently transitioning from QA to **SDET (Software Development Engineer in Test)**
 - 📱 Focused on mobile test automation using **Appium** and **TestNG**
-- 🌱 Learning **Playwright** and **Cypress** for modern web testing
+- 🌱 Learning **Playwright** and **Python** for modern web testing
 - 🌍 Fluent in **Portuguese** and **English**, currently learning **French**
 - ⚽ Football enthusiast and video game lover 🎮
 
@@ -41,6 +41,9 @@ A project focused on automated testing of an Android app using Appium and best p
 
 ### [Playwright](https://github.com/diegograel/portfolio-playwright-sample)
 A project with the purpose on learning and also display these learnings on my portfolio.
+
+### [Python](https://github.com/diegograel/python-pytest-ui-automation)
+A project targeting the market's most in-demand language.
 ---
 
 ## 📊 GitHub Stats
