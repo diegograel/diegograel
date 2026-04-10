@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Diego Grael
 
-🎯 **QA transitioning to SDET** | 🇨🇦 Based in Vancouver, Canada  
-🧪 Passionate about software quality, test automation, and clean code practices.
+🎯 **Senior QA Professional transitioning to SDET** | 🇨🇦 Based in Vancouver, Canada  
+🧪 Over 10 years of experience in Software Testing, specializing in both manual and automated strategies for Mobile and Web applications.
 
 ---
 
@@ -10,8 +10,8 @@
 - 👨‍💻 Currently transitioning from QA to **SDET (Software Development Engineer in Test)**
 - 📱 Focused on mobile test automation using **Appium** and **TestNG**
 - 🌱 Learning **Playwright** and **Python** for modern web testing
-- 🌍 Fluent in **Portuguese** and **English**, currently learning **French**
-- ⚽ Football enthusiast and video game lover 🎮
+- 🌍 Fluent in **Portuguese** and **English**, currently learning **French, currently at A2 level**
+- ⚽ Soccer enthusiast and video game lover 🎮
 
 ---
 
@@ -25,7 +25,7 @@
 **Frameworks & Libraries:**  
 ![Appium](https://img.shields.io/badge/Appium-%23323330.svg?style=flat-square&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=flat-square&logo=java&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%23FF6F00.svg?style=flat-square&logo=java&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=flat-square&logo=python&logoColor=white)
  
 **Tools & Platforms:**  
@@ -36,11 +36,11 @@
 
 ## 🚀 Featured Project
 
+### [Playwright](https://github.com/diegograel/playwright-e2e-saucedemo)
+Robust web automation suite using TypeScript and Page Object Model (POM). Features include automated login flows, inventory management validation, and data-driven testing.
+
 ### 📱 [Android Sample](https://github.com/diegograel/Android-Sample)
 A project focused on automated testing of an Android app using Appium and best practices for mobile test automation.
-
-### [Playwright](https://github.com/diegograel/portfolio-playwright-sample)
-A project with the purpose on learning and also display these learnings on my portfolio.
 
 ### [Python](https://github.com/diegograel/python-pytest-ui-automation)
 A project targeting the market's most in-demand language.
