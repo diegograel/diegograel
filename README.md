@@ -26,7 +26,6 @@
 ![Appium](https://img.shields.io/badge/Appium-%23323330.svg?style=flat-square&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=flat-square&logo=java&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Playwright Tests](https://github.com/diegograel/playwright-e2e-saucedemo/actions/workflows/playwright.yml/badge.svg)
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=flat-square&logo=python&logoColor=white)
  
 **Tools & Platforms:**  
@@ -39,6 +38,9 @@
 
 ### [Playwright](https://github.com/diegograel/playwright-e2e-saucedemo)
 Robust web automation suite using TypeScript and Page Object Model (POM). Features include automated login flows, inventory management validation, and data-driven testing.
+
+### ![Playwright Tests](https://github.com/diegograel/playwright-e2e-saucedemo/actions/workflows/playwright.yml/badge.svg)
+CI/CD running for the repo: playwright-e2e-saucedemo
 
 ### 📱 [Android Sample](https://github.com/diegograel/Android-Sample)
 A project focused on automated testing of an Android app using Appium and best practices for mobile test automation.
