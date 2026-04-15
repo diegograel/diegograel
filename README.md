@@ -38,6 +38,7 @@
 
 ### [Playwright](https://github.com/diegograel/playwright-e2e-saucedemo)
 Robust web automation suite using TypeScript and Page Object Model (POM). Features include automated login flows, inventory management validation, and data-driven testing.
+![Playwright Tests](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/playwright.yml/badge.svg)
 
 ### 📱 [Android Sample](https://github.com/diegograel/Android-Sample)
 A project focused on automated testing of an Android app using Appium and best practices for mobile test automation.
